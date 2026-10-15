@@ -4,7 +4,7 @@ import React from "react";
 import Link from "../Navbar/Link";
 const Info = () => (
   <div css={styles} className="info">
-    <p>NO PAIN, NO GAIN</p>
+    <p>NO PAINs, NO GAINs</p>
     <h1>
       WELCOME TO OUR <span>WORLD</span>
     </h1>
